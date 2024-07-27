@@ -1,1 +1,1 @@
-# chatbot-researchnexus
+# chatbot-ScholarSphere
